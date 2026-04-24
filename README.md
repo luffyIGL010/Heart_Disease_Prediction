@@ -16,3 +16,10 @@ An interactive web application built with **Streamlit** that predicts the likeli
 
 
 <img width="3999" height="2799" alt="image" src="https://github.com/user-attachments/assets/b60773cc-3348-4e73-83f8-4caef11ce400" />
+
+
+Model,Accuracy,Precision,Recall,F1-Score
+Random Forest,89%,0.88,0.90,0.89
+SVM (RBF Kernel),87%,0.86,0.88,0.87
+Logistic Regression,85%,0.84,0.85,0.84
+Decision Tree,82%,0.81,0.82,0.81
