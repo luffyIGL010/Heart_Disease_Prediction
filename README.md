@@ -13,3 +13,6 @@ An interactive web application built with **Streamlit** that predicts the likeli
 - **Frontend:** Streamlit
 - **ML Libraries:** Scikit-learn, Pandas, Numpy
 - **Deployment:** Pickle for model serialization
+
+
+<img width="3999" height="2799" alt="image" src="https://github.com/user-attachments/assets/b60773cc-3348-4e73-83f8-4caef11ce400" />
